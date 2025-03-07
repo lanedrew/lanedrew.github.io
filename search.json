@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Lane Drew, a Ph.D. candidate in Statistics at Colorado State University.\nMy research interests include Bayesian hierarchical modeling for environmental and ecological applications with an emphasis on record linkage, spatial point processes, and statistical computing.\nOn this website, you will find a selection of my published works. In addition, you will find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Drew, L., Kaplan, A., Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. DOI: 10.48550/arXiv.2501.13285. (2024+) (Under revision at Annals of Applied Statistics)."
+  },
+  {
+    "objectID": "research.html#papers",
+    "href": "research.html#papers",
+    "title": "Research",
+    "section": "",
+    "text": "Drew, L., Kaplan, A., Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. DOI: 10.48550/arXiv.2501.13285. (2024+) (Under revision at Annals of Applied Statistics)."
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\n\nldmppr\nldmppr is an R package containing a suite of tools for estimating, assessing model fit, simulating from, and visualizing location dependent marked point processes characterized by regularity in the pattern. CRAN GitHub"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I have taught a wide array of introductory Statistics courses at the undergraduate level at Colorado State University, including:\n\nSTAT 100 Statistical Literacy (SP 23, FA 24)\nSTAT 158 Introduction to R Programming (SU 23, SU 24, SP 25)\nSTAT 201 General Statistics (SU 20)\nSTAT 204 Statistics with Business Applications (SU 20)\nSTAT 301 Introduction to Applied Statistical Methods (FA 21, SP 22, FA 22, SP 24)\n\nI have also facilitated workshops on R programming and version control using Git for Coding & Cookies, including:\n\nVersion Control Using git (SP 24, FA 24)\nData Visualization Using ggplot (SP 22)\nR Basics (FA 22, SP 23, FA 23)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lane Drew",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Statistics at Colorado State University (defense anticipated Summer 2025), where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Lane Drew",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Statistics at Colorado State University (defense anticipated Summer 2025), where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Lane Drew",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research is centered on statistical methods for analyzing complex spatial and temporal data, particularly in ecological and environmental settings. I am particularly interested in:\n\nBayesian Methods and Non-Linear Regression – Implementing Bayesian hierarchical models and non-linear regression techniques for parameter estimation and uncertainty quantification.\nRecord Linkage and Data Integration – Developing probabilistic methods for linking spatial-temporal datasets across different resolutions and time points.\nSpatial and Spatio-temporal Point Processes – Developing models for event occurrences in space and time, with applications to location-dependent marked point processes arising in forestry.\n\nI am always looking for opportunities to apply statistical modeling to real-world challenges and collaborate with researchers across disciplines."
+  }
+]
